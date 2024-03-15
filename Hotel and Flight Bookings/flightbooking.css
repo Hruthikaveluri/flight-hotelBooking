@@ -1,0 +1,169 @@
+
+
+.travel-logo {
+    width: 90px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #0d2436;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #0d2436;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #0d2436;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/027/102/480/non_2x/young-family-walking-at-airport-with-luggage-girl-showing-something-through-window-free-photo.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: #77abe6;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #82b2e8;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #ffffff;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff;
+    border-radius: 8px;
+}
+
+.explore-menu-section {
+    background-color: #ffffff;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+
+}
+
+.menu-item-image {
+    border-radius: 16px;
+    height: 250px;
+    width: 100px;
+}
+
+.horizontal-line {
+    height: 1px;
+    width: 25%;
+    background-color: red;
+    margin-right: 500px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #1a7ef0;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.booking-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-heading {
+    font-size: 25px;
+    text-align: center;
+    color: #0d2436;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-input {
+    width: calc(100% - 10px);
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-button {
+    width: 40%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+#results {
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-heading {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.footer-img {
+    width: 250px;
+    height: 70px;
+}
